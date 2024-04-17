@@ -1,4 +1,6 @@
 ## NOTE: This repository has been archived and no longer maintained!
+### This software includes the work that is distributed in the Apache License 2.0.
+
 
 # Create and deploy a blockchain network using Hyperledger Fabric SDK for Java
 
